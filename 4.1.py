@@ -13,4 +13,3 @@ except ValueError:
     arg_3 = input('Enter bonuses: ')
 
 salary(int(arg_1), int(arg_2), int(arg_3))
-
